@@ -1,3 +1,4 @@
+本项目个人修改计划暂未开始，请移步原项目：https://github.com/cxOrz/chaoxing-sign-cli 
 <h1 align="center">🌿超星学习通签到🌿</h1>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
